@@ -14,7 +14,7 @@ Klik Upload, tunggu sampai Hard resetting via RTS pin. Upload dari Arduino IDE n
 
 Cara B — merged .bin via esptool.js (lebih cepat, tanpa compile)
 
-Buka https://espressif.github.io/esp-web-tools/ di Chrome, Connect ke ESP32
+Buka https://espressif.github.io/esptool-js/ di webbrowser, Connect ke ESP32
 Jangan klik Erase — pairing speaker BT lo tersimpan di NVS, Erase bikin hilang. Erase cuma kalau board bootloop.
 Pilih file votol_ble_dualcore_foxr_joni_soundonly_v5_5_merged.bin, flash di alamat 0x0
 Tunggu sampai selesai, ESP32 restart sendiri
