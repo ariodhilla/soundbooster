@@ -2,7 +2,7 @@ Ini hanya untuk testing saja, bluetooth connection ke speaker
 Bluetooth tetap kepakai buat ngetes di rumah — itu gunanya sekarang. Buat permanen di motor, 
 jalurnya memang ampli + speaker, dan v5.5 udah auto-fallback ke I2S kalau BT nggak konek.
 
-
+Thanks for @zexry619 yang sudah upload datanya ke sini : https://github.com/zexry619/votol-esp32-can-bus
 
 Cara A — Arduino IDE (dari ZIP)
 
